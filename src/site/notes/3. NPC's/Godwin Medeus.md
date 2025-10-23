@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/npc-s/Godwin-Medeus/"}
 ---
 ![[Godwyn.jpg|410x729]]
 
