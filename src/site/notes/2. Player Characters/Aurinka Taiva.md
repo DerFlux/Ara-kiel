@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/2-Player-Characters/aurinka-taiva/"}
 ---
 ![[Aurinka_Taiva.jpg|433x557]]
 
