@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-Vaz-Campaign/Vaz-Session-0-(generally-all-campaigns-and-parts-of-the-old-campaign)/"}
 ---
 Games will be heavily roleplay-focused, with combat encounters included.
 When they do take place, Basilikum will design them as epic and cinematic as possible.
