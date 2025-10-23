@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-Player-Characters/Berlast/"}
+{"dg-publish":true,"permalink":"/2-Player-Characters/Barlast/"}
 ---
 ![[Barlast.jpg]]
 
