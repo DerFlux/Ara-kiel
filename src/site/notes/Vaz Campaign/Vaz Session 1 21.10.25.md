@@ -41,7 +41,7 @@ And it is clear, that someone ratted the revolutionaries out. (Even if only part
 - **Marcus**: entrusted with the will.  Protector of the smallfolk and western lands.
 - **Rion**: received Godwin’s journal, encrypted, with possible information about _him_.
 - **Jam**: received a dagger.
-- **Yullu and Kully** ([[NPC's/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
+- **Yully and Kully** ([[NPC's/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
 - **Barlast**: received a quarterstaff, a druidic relic passed through the southern grove and once held by the 7th Scout Division before Godwin obtained it.
 - **Lerlund**: inherited the estate and all possessions not otherwise named in the will, until Vittoria comes of age.
 - **Vittoria**: shared ownership of the estate with Lerlund.
@@ -49,8 +49,7 @@ And it is clear, that someone ratted the revolutionaries out. (Even if only part
 
 Wine is from the Northern provinces near the Iron Tower. Was Godwin's favourite.
 
-Rion B. Everhope seems to likes grape juice very much.
-Doesn't like nor drinks alcohol.
+Rion B. Everhope seems to likes grape juice very much. // Doesn't like nor drinks alcohol.
 Aurinka got a mix of wine and grape juice.
 Lerlund got wine only
 Barlast got a glass of wine and a glass of juice separately
