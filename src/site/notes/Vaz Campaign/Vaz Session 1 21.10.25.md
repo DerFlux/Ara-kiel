@@ -18,7 +18,7 @@ Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeu
 Rion is going to take out one of her books and stars writing down the scene and notes down the words Godwin said.
 
 [[NPCs/Arkhan the Cruel\|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
-Aurinka replied weakly: *"No...of course not"* to where the aasimar could only look away, shaking.
+Aurinka replied weakly: *"No...of course not"* to which the aasimar could only look away, shaking.
 
 The crown continued on with the execution, with the crowd and all of it's members watching, some in awe and some in fear.
 
