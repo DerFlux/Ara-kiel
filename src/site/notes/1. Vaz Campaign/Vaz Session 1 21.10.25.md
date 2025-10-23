@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/1-Vaz-Campaign/Vaz-Session-1-21.10.25/"}
 ---
-[[The Execution of Saint Godwin]]
+[[1. Vaz Campaign/The Execution of Saint Godwin]]
 The world we live in is named Ara'kiel.
 
 Today, [[Godwin Medeus]] was executed, hanged publicly before all of our eyes.. 
