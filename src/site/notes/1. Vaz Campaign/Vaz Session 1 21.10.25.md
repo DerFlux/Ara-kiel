@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-Vaz-Campaign/Vaz-Session-1-21.10.25/"}
 ---
 [[The Execution of Saint Godwin]]
 The world we live in is named Ara'kiel.
