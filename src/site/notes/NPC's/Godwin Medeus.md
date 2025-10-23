@@ -6,7 +6,7 @@
 
 Rip my goat.
 
-Husband to [[Erika\|Erika]]
+Baby daddy to [[Erika\|Erika]]
 Older brother of [[Player Characters/Lerlund Medeus\|Lerlund Medeus]].
 Father of [[NPC's/Vittoria Medeus\|Vittoria Medeus]]
 Co-worker of [[Player Characters/Aurinka Taiva\|Aurinka Taiva]]

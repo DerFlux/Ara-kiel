@@ -5,7 +5,7 @@
 [[Vaz Campaign/The Execution of Saint Godwin\|The Execution of Saint Godwin]]
 The world we live in is named Ara'kiel.
 
-Today, [[NPC's/Godwin Medeus\|Godwin Medeus]] was executed, hanged publicly before all of our eyes.. 
+Today, [[NPC's/Godwin Medeus\|Godwin Medeus]] was executed, hanged publicly before all of our eyes...
 
 [[Player Characters/Aurinka Taiva\|Aurinka]] forced herself to watch, etching every detail of the scene into her very memory, even as her body told her to look away, to make sure she wouldn't ever forget this scene.
 
@@ -34,14 +34,14 @@ And it is clear, that someone ratted the revolutionaries out. (Even if only part
 
 [[NPC's/The Leonin Twins\|The Leonin Twins]]
 
-[[Yeoli\|Yeoli]] and [[Koli\|Koli]],
+[[NPC's/Yully\|Yully]] and [[NPC's/Kully\|Kully]],
 
 ## The Will of Godwin Medeus
 
 - **Marcus**: entrusted with the will.  Protector of the smallfolk and western lands.
 - **Rion**: received Godwin’s journal, encrypted, with possible information about _him_.
 - **Jam**: received a dagger.
-- **Yeoli and Koli** ([[NPC's/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
+- **Yullu and Kully** ([[NPC's/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
 - **Barlast**: received a quarterstaff, a druidic relic passed through the southern grove and once held by the 7th Scout Division before Godwin obtained it.
 - **Lerlund**: inherited the estate and all possessions not otherwise named in the will, until Vittoria comes of age.
 - **Vittoria**: shared ownership of the estate with Lerlund.
