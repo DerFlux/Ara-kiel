@@ -1,46 +1,46 @@
 ---
 {"dg-publish":true,"permalink":"/1-Vaz-Campaign/Vaz-Session-1-21.10.25/"}
 ---
-[[1. Vaz Campaign/The Execution of Saint Godwin]]
+[[1. Vaz Campaign/The Execution of Saint Godwin\The Execution of Saint Godwin]]
 The world we live in is named Ara'kiel.
 
-Today, [[Godwin Medeus]] was executed, hanged publicly before all of our eyes.. 
+Today, [[3. NPC's/Godwin Medeus\Godwin Medeus]] was executed, hanged publicly before all of our eyes.. 
 
-[[Aurinka Taiva|Aurinka]] forced herself to watch, etching every detail of the scene into her very memory, even as her body told her to look away, to make sure she wouldn't ever forget this scene.
+[[2. Player Characters/Aurinka Taiva\Aurinka Taiva|Aurinka]] forced herself to watch, etching every detail of the scene into her very memory, even as her body told her to look away, to make sure she wouldn't ever forget this scene.
 
-Before the hanging took place, [[Lerlund Medeus]] had a short but heavy exchange with his older brother. Godwin asked what meal he would be eating, and urged his brother to eat a feast that day, whereas Lerlund only emptily replied that he wouldn't eat at all on a day like this. Before the conversation forcefully came to an end, Godwin asked Lerlund to make sure that his niece ([[Vittoria Medeus]]), would take her medicine that day.
+Before the hanging took place, [[2. Player Characters/Lerlund Medeus\Lerlund Medeus]] had a short but heavy exchange with his older brother. Godwin asked what meal he would be eating, and urged his brother to eat a feast that day, whereas Lerlund only emptily replied that he wouldn't eat at all on a day like this. Before the conversation forcefully came to an end, Godwin asked Lerlund to make sure that his niece ([[3. NPC's/Vittoria Medeus\Vittoria Medeus]]), would take her medicine that day.
 
-[[Barlast]] had a solemn look on his face, though he tried not to show it.
+[[2. Player Characters/Barlast\Barlast]] had a solemn look on his face, though he tried not to show it.
 
-[[Rion B. Everhope|Rion]]'s tail was still, she wanted this execution to be over with as soon as possible. She hated every single moment of it. She opened one of her books to record the scene and the final words of the paladin.
+[[[2. Player Characters/Rion B. Everhope\Rion B. Everhope|Rion]]'s tail was still, she wanted this execution to be over with as soon as possible. She hated every single moment of it. She opened one of her books to record the scene and the final words of the paladin.
 
 Rion is going to take out one of her books and stars writing down the scene and notes down the words Godwin said.
 
-[[Arkhan the Cruel|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
+[[3. NPC's/Arkhan the Cruel\Arkhan the Cruel|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
 Aurinka replied weakly: *"No...of course not"* to where the aasimar could only look away, shaking.
 
 The crown continued on with the execution, with the crowd and all of it's members watching, some in awe and some in fear.
 
 The funeral will take place at Lerlund's and Vittoria's abode.
 
-[[Marcus]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
+[[3. NPC's/Marcus\Marcus]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
 
 Marcus now carried the will of Godwin.
 
 And it is clear, that someone ratted the revolutionaries out. (Even if only partially.)
 
-[[Jam]], a goblin Inquisitor associated with house Medani (The same house which Aurinka is in.), came by with Aurinka whom is a part of the crown. Carrying Godwin's sword.
+[[3. NPC's/Jam\Jam]], a goblin Inquisitor associated with house Medani (The same house which Aurinka is in.), came by with Aurinka whom is a part of the crown. Carrying Godwin's sword.
 
-[[The Leonin Twins]]
+[[3. NPC's/The Leonin Twins\The Leonin Twins]]
 
-[[Yeoli]] and [[Koli]],
+[[3. NPC's/Yeoli\Yeoli]] and [[3. NPC's/Yeoli\Koli]],
 
 ## The Will of Godwin Medeus
 
 - **Marcus**: entrusted with the will.  Protector of the smallfolk and western lands.
 - **Rion**: received Godwin’s journal, encrypted, with possible information about _him_.
 - **Jam**: received a dagger.
-- **Yeoli and Koli** ([[The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
+- **Yeoli and Koli** The Leonin Twins: received a chess set. (To hopefully become smarter.)
 - **Barlast**: received a quarterstaff, a druidic relic passed through the southern grove and once held by the 7th Scout Division before Godwin obtained it.
 - **Lerlund**: inherited the estate and all possessions not otherwise named in the will, until Vittoria comes of age.
 - **Vittoria**: shared ownership of the estate with Lerlund.
@@ -74,7 +74,7 @@ Contents of each chest:
 1 a rainbow orb (?)
 2 Potion of Hell Giant Strength
 3 Godwin's diary
-![[The 3 chests.png]]
+![[The 3 chests.png]](/img/images/The%203%20chests.png)
 
 They found a head of a green dragon
 That reminded Lerlund and Aurinka of a case 3 Years Ago on New Years Eve. 
@@ -82,10 +82,10 @@ The Disappearance of Lord Varkrok the Green.
 Varkok was a known green dragon who frequently disguised himself as a human to participate in slave auctions. He had disappeared 3 years ago.
 His severed head now hangs mounted on a wall.
 
-![[Lord Varkrok the Green.png]]
+![[Lord Varkrok the Green.png]](/img/images/Lord%20Varkrok%20the%20Green.png)
 
 **Owaris** god of feasts, sex love and parties.
-![[Owaris God of Feasts, Sex, Love and Parties..png]]
+![[Owaris God of Feasts, Sex, Love and Parties..png]](/img/images/Owaris%20God%20of%20Feasts,%20Sex,%20Love%20and%20Parties..png)
 
 Lerlund was later ambushed by 2 drow assasins of the crown, (Marked by the black emblem they wore), with the party including Aurinka coming for support. 
 
@@ -97,13 +97,13 @@ The voice accused her of betrayal and threatened her with another course of brai
 This would scar Aurinka once more and knowing she wouldn't be able to lie her way through the zone of truth that would follow suit, she ends up having a panic attack until  Rion calms her down.
 
 Symbol of **Belial**
-![[Symbol of Belial.png]]
+![[Symbol of Belial.png]](/img/images/Owaris%20God%20of%20Feasts,%20Sex,%20Love%20and%20Parties..png)
 
 
 Hooty, Vittoria's old pet she buried under a black/burned(?) star. 
 
 Was stuck in the basement for 3 years
-![[Hooty.png]]
+![[Hooty.png]](/img/images/Hooty.png)
 
 As Aurinka and Lerlund talked to Hooty, trying to calm the excited owl amalgamation down, the owl would show the gift it had crafted for Vittoria, using the gems the party had seen in the beginning of the basement. 
 
