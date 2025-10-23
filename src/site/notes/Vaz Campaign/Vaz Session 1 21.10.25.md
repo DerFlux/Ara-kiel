@@ -111,7 +111,7 @@ As Aurinka and Lerlund talked to Hooty, trying to calm the excited owl amalgamat
 
 Lerlund would slip up by accident and reveal to Aurinka that Vittoria seemed be a sorcerer.
 
-Later on Rion attempted to pick up the dagger, which revealed itself to be a mimic.
+Later on Rion attempted to get the dagger from the room, but the door revealed itself to be a mimic.
 
 In the ensuing fight Rion was forced to reveal her magical capabilities to fight and heal Aurinka, who had sustained grave injuries against the mimic. 
 Afterward Aurinka used her healing hands on Rion and the tiefling would heal the aasimar in return once again, signaling a faint but existing sign of trust.
