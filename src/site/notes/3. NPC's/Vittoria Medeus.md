@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/npc-s/Vittoria-Medeus/"}
 ---
 ![[Vittoria.jpg]]
 
