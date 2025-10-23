@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/1-Vaz-Campaign/The Execution of Saint Godwin/"}
 ---
 **_Lerlund, someone you love will die today._**
 
