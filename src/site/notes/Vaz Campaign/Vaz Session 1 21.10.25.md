@@ -54,7 +54,7 @@ Aurinka got a mix of wine and grape juice.
 Lerlund got wine only
 Barlast got a glass of wine and a glass of juice separately
 
-Aurinka complained that both Lerlund's salad and Marcus' wine tasted **awful.**
+Aurinka complained that both Lerlund's salad and Marcus' whiskey tasted **awful.**
 It turned out that Lerlund's salad was made using rotten vegetables, which the fighter decided to only cut off the visibly rotten parts in his cooking, assuming that the food would still be edible in the process.
 
 Lerlund and Godwin used to be smugglers?
