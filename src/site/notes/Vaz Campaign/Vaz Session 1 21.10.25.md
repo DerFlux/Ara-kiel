@@ -5,11 +5,11 @@
 [[Vaz Campaign/The Execution of Saint Godwin\|The Execution of Saint Godwin]]
 The world we live in is named Ara'kiel.
 
-Today, [[NPC's/Godwin Medeus\|Godwin Medeus]] was executed, hanged publicly before all of our eyes...
+Today, [[NPCs/Godwin Medeus\|Godwin Medeus]] was executed, hanged publicly before all of our eyes...
 
 [[Player Characters/Aurinka Taiva\|Aurinka]] forced herself to watch, etching every detail of the scene into her very memory, even as her body told her to look away, to make sure she wouldn't ever forget this scene.
 
-Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeus]] had a short but heavy exchange with his older brother. Godwin asked what meal he would be eating, and urged his brother to eat a feast that day, whereas Lerlund only emptily replied that he wouldn't eat at all on a day like this. Before the conversation forcefully came to an end, Godwin asked Lerlund to make sure that his niece ([[NPC's/Vittoria Medeus\|Vittoria Medeus]]), would take her medicine that day.
+Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeus]] had a short but heavy exchange with his older brother. Godwin asked what meal he would be eating, and urged his brother to eat a feast that day, whereas Lerlund only emptily replied that he wouldn't eat at all on a day like this. Before the conversation forcefully came to an end, Godwin asked Lerlund to make sure that his niece ([[NPCs/Vittoria Medeus\|Vittoria Medeus]]), would take her medicine that day.
 
 [[Player Characters/Barlast\|Barlast]] had a solemn look on his face, though he tried not to show it.
 
@@ -17,31 +17,31 @@ Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeu
 
 Rion is going to take out one of her books and stars writing down the scene and notes down the words Godwin said.
 
-[[NPC's/Arkhan the Cruel\|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
+[[NPCs/Arkhan the Cruel\|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
 Aurinka replied weakly: *"No...of course not"* to where the aasimar could only look away, shaking.
 
 The crown continued on with the execution, with the crowd and all of it's members watching, some in awe and some in fear.
 
 The funeral will take place at Lerlund's and Vittoria's abode.
 
-[[NPC's/Marcus\|Marcus]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
+[[NPCs/Marcus\|Marcus]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
 
 Marcus now carried the will of Godwin.
 
 And it is clear, that someone ratted the revolutionaries out. (Even if only partially.)
 
-[[NPC's/Jam\|Jam]], a goblin Inquisitor associated with house Medani (The same house which Aurinka is in.), came by with Aurinka whom is a part of the crown. Carrying Godwin's sword.
+[[NPCs/Jam\|Jam]], a goblin Inquisitor associated with house Medani (The same house which Aurinka is in.), came by with Aurinka whom is a part of the crown. Carrying Godwin's sword.
 
-[[NPC's/The Leonin Twins\|The Leonin Twins]]
+[[NPCs/The Leonin Twins\|The Leonin Twins]]
 
-[[NPC's/Yully\|Yully]] and [[NPC's/Kully\|Kully]],
+[[NPCs/Yully\|Yully]] and [[NPCs/Kully\|Kully]],
 
 ## The Will of Godwin Medeus
 
 - **Marcus**: entrusted with the will.  Protector of the smallfolk and western lands.
 - **Rion**: received Godwin’s journal, encrypted, with possible information about _him_.
 - **Jam**: received a dagger.
-- **Yully and Kully** ([[NPC's/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
+- **Yully and Kully** ([[NPCs/The Leonin Twins\|The Leonin Twins]]): received a chess set. (To hopefully become smarter.)
 - **Barlast**: received a quarterstaff, a druidic relic passed through the southern grove and once held by the 7th Scout Division before Godwin obtained it.
 - **Lerlund**: inherited the estate and all possessions not otherwise named in the will, until Vittoria comes of age.
 - **Vittoria**: shared ownership of the estate with Lerlund.
