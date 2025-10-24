@@ -13,7 +13,7 @@ Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeu
 
 [[Player Characters/Barlast\|Barlast]] had a solemn look on his face, though he tried not to show it.
 
-[[Player Characters/Rion B. Everhope\|Rion]]'s tail was still, she wanted this execution to be over with as soon as possible. She hated every single moment of it. She opened one of her books to record the scene and the final words of the paladin.
+[[Player Characters/Rion B. EverHope\|Rion]]'s tail was still, she wanted this execution to be over with as soon as possible. She hated every single moment of it. She opened one of her books to record the scene and the final words of the paladin.
 
 Rion is going to take out one of her books and stars writing down the scene and notes down the words Godwin said.
 
