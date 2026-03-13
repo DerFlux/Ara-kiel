@@ -91,7 +91,7 @@ Ozias pulled back just enough to look at the tear streaked, terrified face in fr
 
 "I will teach you," he grinned at the now offended girl. "How to overcome and how to be safe. I promise." Aurinka stared at her master, eyes burning, her lips trembling. She was still broken, but she wanted to trust her master's words, she really did. So she will keep fighting and for the first time, she didn't feel alone while doing so.
 
-\---
+---
 
 The airship hummed beneath her boots. Not loudly, not urgently, just enough to know that they were moving forward through the sky. Aurinka stood near the railing, fingers curled around the cool metal, her gaze fixated on the endless path of clouds ahead. The sky was gentle today. For a moment, Aurinka let herself look back.
 
