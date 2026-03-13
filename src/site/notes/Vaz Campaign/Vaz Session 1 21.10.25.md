@@ -17,14 +17,14 @@ Before the hanging took place, [[Player Characters/Lerlund Medeus\|Lerlund Medeu
 
 Rion is going to take out one of her books and stars writing down the scene and notes down the words Godwin said.
 
-[[NPCs/Arkhan the Cruel\|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
+[[NPCs/Arkhan The Fraud\|Arkhan]] the Dragonborn stared down at Aurinka, grinning at her, stating: *"Do not tell me, that you're feeling remorse for a traitor are you?"*
 Aurinka replied weakly: *"No...of course not"* to which the aasimar could only look away, shaking.
 
 The crown continued on with the execution, with the crowd and all of it's members watching, some in awe and some in fear.
 
 The funeral will take place at Lerlund's and Vittoria's abode.
 
-[[NPCs/Marcus\|Marcus]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
+[[NPCs/Marcus Goldkeep\|Marcus Goldkeep]] a Golden Dragonborn and former knight (Who knows Barlast, Lerlund and Rion), returned from his trip to the east where he sought for allies. Only to find, that the most courageous of the revolution had gotten caught. 
 
 Marcus now carried the will of Godwin.
 
@@ -120,3 +120,17 @@ Although not verbally said, Aurinka would keep Rion's magical capabilities a sec
 
 ![Dead mimic.png](/img/user/Images/Dead%20mimic.png)
 
+Mimics in particular are invasive species, they don't collaborate with humans or get captured by humans, and invade areas where humans may be. The mimic we fought came here under his own volition.
+
+
+3x Antimagic Field 1X [[Player Characters/Barlast\|Barlast]], 2x [[Player Characters/Lerlund Medeus\|Lerlund Medeus]]
+4x Haste **1x for all of the party each**
+2x Counterspell 1x [[Player Characters/Barlast\|Barlast]], 1x [[Player Characters/Aurinka Taiva\|Aurinka Taiva]]
+2x Cure Wounds 1x [[Player Characters/Aurinka Taiva\|Aurinka Taiva]], 1x [[Player Characters/Barlast\|Barlast]]
+5x Teleport 2x [[Player Characters/Rion B. EverHope\|Rion B. EverHope]], 1x [[Player Characters/Lerlund Medeus\|Lerlund Medeus]], [[Player Characters/Aurinka Taiva\|Aurinka Taiva]], [[Player Characters/Barlast\|Barlast]]
+1x Wish [[Player Characters/Lerlund Medeus\|Lerlund Medeus]]
+4x Healing Word 4x [[Player Characters/Aurinka Taiva\|Aurinka Taiva]]
+3x Dispel magic 1x [[Player Characters/Aurinka Taiva\|Aurinka Taiva]], 1x [[Player Characters/Barlast\|Barlast]], 1x [[Player Characters/Rion B. EverHope\|Rion B. EverHope]]
+4x Misty Step **1x for all of the party each**
+5x Fireball? 5x [[Player Characters/Rion B. EverHope\|Rion B. EverHope]]
+3x Inflict Wounds 2x [[Player Characters/Rion B. EverHope\|Rion B. EverHope]], 1x [[Player Characters/Aurinka Taiva\|Aurinka Taiva]],

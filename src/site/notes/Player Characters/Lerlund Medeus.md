@@ -5,6 +5,7 @@
 ![Lerlund.png](/img/user/Images/Lerlund.png)
 
 Fighter.
+Son of The [[Lady of the Evening\|Lady of the Evening]]
 Worked as a coast guard for The crown
 Younger brother of [[NPCs/Godwin Medeus\|Godwin Medeus]]
 Uncle of [[NPCs/Vittoria Medeus\|Vittoria Medeus]]
